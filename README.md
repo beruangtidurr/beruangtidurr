@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 👺 Tailwind Demon
+- 🌱 I’m currently learning React.Js
 
 <!---
 bryansdream/bryansdream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

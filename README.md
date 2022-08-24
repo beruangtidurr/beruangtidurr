@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning React.Js and Next.Js
 - ✨ S
 
 <!---

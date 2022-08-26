@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.Js and Next.Js
-- ✨ S
+- ✨ Next and Chakra is my fav couple
 
 <!---
 bryansdream/bryansdream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

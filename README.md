@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<div align-"center">
+<h1> Hi!, My name is Bryan. Welcome to my Github Profile! </h1>  
 ![giphy](https://github.com/bryansdream/bryansdream/assets/107366548/c15e56ea-8530-429a-b35a-20ed48b073de)
 
 
@@ -21,3 +23,4 @@ https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e281
 
 
 <a href="https://instagram.com/gabriellbryannn">My Instagram</a>
+</div>

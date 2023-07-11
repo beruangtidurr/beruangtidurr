@@ -1,8 +1,12 @@
 <p align="center">
   <a href="https://instagram.com/gabriellbryannn">
-  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/c842115d-45c2-481a-8ed8-5a4ffc11ff3d' width="200" height="200" />
-    </a>
+  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/c842115d-45c2-481a-8ed8-5a4ffc11ff3d' width="50" height="50" />
+  </a>
+  <a href='https://github.com/ilovebryan'>
+    <img src='https://github.com/bryansdream/bryansdream/assets/107366548/87e5ec8d-6282-4dee-8fd9-5b418fb3eac7' width="50" height="50"/>
+  </a>
 </p>
+
 
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in Web Development

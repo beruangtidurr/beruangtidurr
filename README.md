@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://instagram.com/gabriellbryannn">
-  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/c842115d-45c2-481a-8ed8-5a4ffc11ff3d'/>
+  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/c842115d-45c2-481a-8ed8-5a4ffc11ff3d' width="200" height="200" />
     </a>
 </p>
 

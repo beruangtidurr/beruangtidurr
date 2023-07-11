@@ -1,11 +1,13 @@
 <p align="center">
   <a href="https://instagram.com/gabriellbryannn">
-  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/cc919620-0b1b-430e-b3b3-14ff25e3e7c3' width="25" height="25" />
+  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/cc919620-0b1b-430e-b3b3-14ff25e3e7c3' width="30" height="30" />
   </a>
   <a href='https://github.com/ilovebryan'>
-    <img src='https://github.com/bryansdream/bryansdream/assets/107366548/5aa8c1d9-6d64-4e33-9885-7f1268239db7' width="25" height="25"/>
+    <img src='https://github.com/bryansdream/bryansdream/assets/107366548/5aa8c1d9-6d64-4e33-9885-7f1268239db7' width="30" height="30"/>
   </a>
 </p>
+
+
 
 - 👋 Hi, I’m Bryan
 - 👀 I’m interested in Web Development

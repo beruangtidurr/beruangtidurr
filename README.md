@@ -1,13 +1,4 @@
 <div align="center">
- <a href="https://instagram.com/gabriellbryannn">
-  <img src='https://github.com/bryansdream/bryansdream/assets/107366548/919fe055-c0d4-422f-9918-ac5b37db0d59' width="30" height="30" />
-  </a>
-  <a href='https://github.com/ilovebryan'>
-    <img src='https://github.com/bryansdream/bryansdream/assets/107366548/901e96d6-4e8e-402c-b6a8-45b72468a3e1' width="30" height="30"/>
-  </a>
-</div>
-
-<div align="center">
 <h3> Hi there 👋 </h3> 
 
 <p>Studying Web3 and blockchain dev</p>
